@@ -6,6 +6,8 @@ I build end-to-end products — from **native mobile apps and real-time systems*
 
 Founder @ **KAISEI** · Building software with strong engineering, thoughtful design and obsessive attention to detail.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-armandobeta.pages.dev-111111?style=for-the-badge\&logo=cloudflarepages\&logoColor=white)](https://armandobeta.pages.dev)
+
 ### Building with
 
 ![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift\&logoColor=white)
@@ -34,3 +36,4 @@ Founder @ **KAISEI** · Building software with strong engineering, thoughtful de
 ---
 
 **I build products like systems, design them like stories, and ship them like they matter.**
+
