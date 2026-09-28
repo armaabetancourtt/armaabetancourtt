@@ -14,12 +14,12 @@ I am developing two complementary systems with an emphasis on code, evaluations,
 
 | Project | Engineering evidence | Status |
 | --- | --- | --- |
-| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/bbc0acada1dcd53d14d133eb4b6fbcf680858125/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API | Experimental; external benchmark run pending |
-| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/cc489a3c99575343c76347873bebafa61086a489/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests | Experimental; genuine model evaluation pending |
-| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/de7274b29a268c8fe535a5311b161b3ced639179/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability | Complementary, not presented as an ML project |
-| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/7743645da9977c8c3aa13facb57311eda5b56448/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines | Experimental; consented evaluation and product integration pending |
+| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/6545d31007057f79c1a34e08427beb969a0544ef/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API | Experimental; external benchmark run pending |
+| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/70b36ff466343912cdbfe4c608ed387261f41ebf/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests | Experimental; genuine model evaluation pending |
+| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/6b4bcdaa34e2c72aeb43eb66d7b9c6551809db6f/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability | Complementary, not presented as an ML project |
+| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/cd0024b14f226a603a43c265cb86efeacd18bc02/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines | Experimental; consented evaluation and product integration pending |
 
-These evidence links are pinned to reviewable commits, so they survive branch cleanup. The profile PR should be merged after the project PRs. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
+These evidence links are pinned to commits already merged into each project's `main` branch. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
 
 ### Building with
 
