@@ -8,6 +8,19 @@ Founder @ **KAISEI** · Building software with strong engineering, thoughtful de
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-armandobeta.pages.dev-111111?style=for-the-badge\&logo=cloudflarepages\&logoColor=white)](https://armandobeta.pages.dev)
 
+### AI engineering — reproducible evidence
+
+I am developing two complementary systems with an emphasis on code, evaluations, failure modes and reproducibility rather than unverified claims:
+
+| Project | Engineering evidence | Status |
+| --- | --- | --- |
+| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/portfolio-ai-evidence-2026-09/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API | Experimental; external benchmark run pending |
+| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/portfolio-ai-evidence-2026-09/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests | Experimental; genuine model evaluation pending |
+| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/portfolio-ai-evidence-2026-09/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability | Complementary, not presented as an ML project |
+| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/portfolio-ai-evidence-2026-09/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines | Experimental; consented evaluation and product integration pending |
+
+These links currently point to proposed pull-request branches. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
+
 ### Building with
 
 ![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift\&logoColor=white)
