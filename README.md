@@ -14,12 +14,12 @@ I am developing two complementary systems with an emphasis on code, evaluations,
 
 | Project | Engineering evidence | Status |
 | --- | --- | --- |
-| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/portfolio-ai-evidence-2026-09/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API | Experimental; external benchmark run pending |
-| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/portfolio-ai-evidence-2026-09/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests | Experimental; genuine model evaluation pending |
-| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/portfolio-ai-evidence-2026-09/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability | Complementary, not presented as an ML project |
-| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/portfolio-ai-evidence-2026-09/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines | Experimental; consented evaluation and product integration pending |
+| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/bbc0acada1dcd53d14d133eb4b6fbcf680858125/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API | Experimental; external benchmark run pending |
+| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/cc489a3c99575343c76347873bebafa61086a489/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests | Experimental; genuine model evaluation pending |
+| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/de7274b29a268c8fe535a5311b161b3ced639179/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability | Complementary, not presented as an ML project |
+| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/7743645da9977c8c3aa13facb57311eda5b56448/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines | Experimental; consented evaluation and product integration pending |
 
-These links currently point to proposed pull-request branches. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
+These evidence links are pinned to reviewable commits, so they survive branch cleanup. The profile PR should be merged after the project PRs. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
 
 ### Building with
 
