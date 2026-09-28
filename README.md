@@ -12,12 +12,12 @@ Founder @ **KAISEI** · Building software with strong engineering, thoughtful de
 
 I am developing two complementary systems with an emphasis on code, evaluations, failure modes and reproducibility rather than unverified claims:
 
-| Project | Engineering evidence | Status |
-| --- | --- | --- |
-| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/6545d31007057f79c1a34e08427beb969a0544ef/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API | Experimental; external benchmark run pending |
-| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/70b36ff466343912cdbfe4c608ed387261f41ebf/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests | Experimental; genuine model evaluation pending |
-| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/6b4bcdaa34e2c72aeb43eb66d7b9c6551809db6f/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability | Complementary, not presented as an ML project |
-| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/cd0024b14f226a603a43c265cb86efeacd18bc02/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines | Experimental; consented evaluation and product integration pending |
+| Project | Engineering evidence |
+| --- | --- |
+| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/6545d31007057f79c1a34e08427beb969a0544ef/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API |
+| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/70b36ff466343912cdbfe4c608ed387261f41ebf/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests |
+| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/6b4bcdaa34e2c72aeb43eb66d7b9c6551809db6f/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability |
+| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/cd0024b14f226a603a43c265cb86efeacd18bc02/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines |
 
 These evidence links are pinned to commits already merged into each project's `main` branch. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
 
@@ -44,7 +44,7 @@ These evidence links are pinned to commits already merged into each project's `m
 
 ### Engineering across
 
-**Mobile Engineering** · **Machine Learning** · **Data Science** · **Realtime Systems** · **Backend Engineering** · **Cloud & DevOps** · **System Design** · **UI/UX**
+**Mobile Engineering** · **Artificial Intelligence** · **Machine Learning** · **Data Science** · **Realtime Systems** · **Backend Engineering** · **Cloud & DevOps** · **System Design** · **UI/UX**
 
 ---
 
