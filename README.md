@@ -1,52 +1,72 @@
-# Armando Betancourt
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Armando Betancourt — Cloud, Data and AI Engineering" width="100%" />
+</p>
 
-**Product Engineer building ambitious software across mobile, AI, data, cloud and design.**
+<p align="center">
+  <a href="https://armandobeta.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-121A36?style=for-the-badge&labelColor=0A1025&color=346DC1" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/armaabetancourt/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-121A36?style=for-the-badge&labelColor=0A1025&color=6261C9&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaisei.com.mx"><img src="https://img.shields.io/badge/KAISEI-Venture_Studio-121A36?style=for-the-badge&labelColor=0A1025&color=A35FD4" alt="KAISEI"/></a>
+</p>
 
-I build end-to-end products — from **native mobile apps and real-time systems** to **machine learning, cloud infrastructure and human-centered experiences**.
+### Engineering the systems behind intelligent products.
 
-Founder @ **KAISEI** · Building software with strong engineering, thoughtful design and obsessive attention to detail.
+I'm a **Software & Product Engineer** and founder at **KAISEI**. I build end-to-end technology products where **cloud infrastructure, reliable data systems and applied AI** meet thoughtful product design.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-armandobeta.pages.dev-111111?style=for-the-badge\&logo=cloudflarepages\&logoColor=white)](https://armandobeta.pages.dev)
+Rather than treating cloud, data and AI as separate disciplines, I work across the architecture that connects them — from backend systems and pipelines to intelligent, human-centered experiences.
 
-### AI engineering — reproducible evidence
+## Three connected focus areas
 
-I am developing two complementary systems with an emphasis on code, evaluations, failure modes and reproducibility rather than unverified claims:
+| ☁️ Cloud Architecture & DevOps | ◈ Data Engineering | ✦ AI Product Engineering |
+| :--- | :--- | :--- |
+| Cloud-native architecture, delivery automation, CI/CD, containers, observability and reliability. | Data pipelines, ETL/ELT, modeling, distributed processing and analytical systems. | Applied ML, AI-assisted workflows, backend services and native digital product engineering. |
+| `AWS` · `Azure` · `Docker` · `GitHub Actions` | `Python` · `SQL` · `Apache Spark` · `Databricks` | `scikit-learn` · `TensorFlow` · `Swift/iOS` · `TypeScript` |
 
-| Project | Engineering evidence |
-| --- | --- |
-| [AUGUST](https://github.com/armaabetancourtt/august) | [Real-data fraud ML pipeline](https://github.com/armaabetancourtt/august/blob/6545d31007057f79c1a34e08427beb969a0544ef/docs/FRAUD_REAL_BENCHMARK.md): temporal holdout, baselines, optional boosting, versioned report and inference API |
-| [Evermore](https://github.com/armaabetancourtt/evermore) | [Typed agent runtime and provider/evaluation work](https://github.com/armaabetancourtt/evermore/blob/70b36ff466343912cdbfe4c608ed387261f41ebf/docs/LIVE_AI_EVALUATION.md): tool authorization, schema validation, budgets, deterministic and opt-in live tests |
-| [PixelGo](https://github.com/armaabetancourtt/pixelgo) | [Operational evidence](https://github.com/armaabetancourtt/pixelgo/blob/6b4bcdaa34e2c72aeb43eb66d7b9c6551809db6f/docs/OPERATIONS_EVIDENCE.md): reproducible health/readiness load smoke and observability |
-| [TRACE](https://github.com/armaabetancourtt/trace) | [Expected pace ML benchmark](https://github.com/armaabetancourtt/trace/blob/cd0024b14f226a603a43c265cb86efeacd18bc02/ml/README.md): explicit opt-in data contract, user-disjoint evaluation and baselines |
+## Selected engineering work
 
-These evidence links are pinned to commits already merged into each project's `main` branch. Published performance, deployed-system claims and real-user evaluation will be added only when verifiable.
+Four projects with documented implementations, reproducible tests or explicit evaluation contracts. The links below point to **versioned technical evidence**, not just product descriptions.
 
-### Building with
+| Project | Engineering focus | Evidence |
+| :--- | :--- | :--- |
+| **[AUGUST](https://github.com/armaabetancourtt/august)** · Decision Intelligence & Risk Engine | Data pipelines, ML evaluation, forecasting and analytical APIs. | [Real-data fraud ML benchmark](https://github.com/armaabetancourtt/august/blob/6545d31007057f79c1a34e08427beb969a0544ef/docs/FRAUD_REAL_BENCHMARK.md) |
+| **[Evermore](https://github.com/armaabetancourtt/evermore)** · AI-native language and runtime | Typed agent workflows, tool authorization, evaluation and deterministic testing. | [AI evaluation methodology](https://github.com/armaabetancourtt/evermore/blob/70b36ff466343912cdbfe4c608ed387261f41ebf/docs/LIVE_AI_EVALUATION.md) |
+| **[PIXEL GO](https://github.com/armaabetancourtt/pixelgo)** · Cross-platform file sharing | Native iOS/Android, Go backend, realtime transport and operational testing. | [Operations evidence](https://github.com/armaabetancourtt/pixelgo/blob/6b4bcdaa34e2c72aeb43eb66d7b9c6551809db6f/docs/OPERATIONS_EVIDENCE.md) |
+| **[TRACE](https://github.com/armaabetancourtt/trace)** · Geospatial mobile platform | Offline-first mobile architecture, privacy-aware data contracts and ML baselines. | [ML benchmark & data contract](https://github.com/armaabetancourtt/trace/blob/cd0024b14f226a603a43c265cb86efeacd18bc02/ml/README.md) |
 
-![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift\&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-111111?style=for-the-badge\&logo=swift\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge\&logo=dart\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge\&logo=react\&logoColor=white)
+<sub>Engineering note: projects may include research-stage functionality, simulated data or opt-in evaluations. Linked documentation describes what is implemented, how to reproduce it and what remains unverified; no production-scale or real-user performance is implied.</sub>
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge\&logo=go\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
+## Products with a human purpose
 
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge\&logo=supabase\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge\&logo=githubactions\&logoColor=white)
+- **[ETERNAL](https://github.com/zeusacad/Eternal-K)** — a digital ecosystem designed to support neurodivergent users through accessibility, personalization and human-centered interactions.
+- **[Changemaker](https://github.com/zeusacad/changemakerweb)** — a platform connecting young people, innovation initiatives and universities.
+- **Thinki** — a native Swift/iOS EdTech app for children with ADHD. I led technical development and designed **iPart**, a participation metric intended to reduce bias; the project placed **first among ten teams** at the Accessible App & Tech Showcase.
 
-### Engineering across
+## Engineering toolkit
 
-**Mobile Engineering** · **Artificial Intelligence** · **Machine Learning** · **Data Science** · **Realtime Systems** · **Backend Engineering** · **Cloud & DevOps** · **System Design** · **UI/UX**
+| Layer | Technologies & practices |
+| :--- | :--- |
+| **Languages & apps** | Python · SQL · TypeScript · Java · Swift/SwiftUI · Kotlin · Dart · Bash |
+| **Cloud & delivery** | AWS · Azure · Docker · GitHub Actions · CI/CD · backend APIs · observability |
+| **Data & intelligence** | Databricks · Apache Spark · Pandas · NumPy · scikit-learn · TensorFlow · data modeling · ETL/ELT |
+| **Product & systems** | Native mobile · realtime systems · API design · system architecture · UI/UX · human-centered design |
+
+## Education & selected credentials
+
+**Software Development Engineering** · Universidad Tecmilenio  
+**Specialized focus track:** DevOps Methodologies *(part of the engineering degree, not a separate postgraduate qualification).*
+
+**Databricks — accreditations & learning paths**
+
+- [AWS Databricks Platform Architect](https://credentials.databricks.com/78da2310-47e9-41ee-a661-51929aac0fb3)
+- [Advanced Techniques with Apache Spark Declarative Pipelines](https://credentials.databricks.com/f4874414-bff2-41bf-8cc9-a3058d9c85a4)
+- [DevOps Essentials for Data Engineering](https://credentials.databricks.com/55bdd0a9-d095-4625-8f57-21b56a93f21e)
+- Data Engineer Learning Path · Databricks Fundamentals Accreditation
+- Additional learning in MLOps, AI agents and multicloud data platforms
+
+**Additional credentials:** IBM DevOps and Software Engineering · Microsoft Certified: Azure AI Fundamentals (AI-900) · AWS Cloud Operations · Cisco Data Analytics Essentials · Red Hat System Administration I (RH124).
 
 ---
 
-**I build products like systems, design them like stories, and ship them like they matter.**
-
+<p align="center">
+  <strong>I build products like systems, design them like stories, and ship them like they matter.</strong><br/>
+  <sub>Thoughtful engineering. Meaningful impact.</sub>
+</p>
