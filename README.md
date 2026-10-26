@@ -16,10 +16,9 @@ Rather than treating cloud, data and AI as separate disciplines, I work across t
 
 ## Three connected focus areas
 
-| ☁️ Cloud Architecture & DevOps | ◈ Data Engineering | ✦ AI Product Engineering |
-| :--- | :--- | :--- |
-| Cloud-native architecture, delivery automation, CI/CD, containers, observability and reliability. | Data pipelines, ETL/ELT, modeling, distributed processing and analytical systems. | Applied ML, AI-assisted workflows, backend services and native digital product engineering. |
-| `AWS` · `Azure` · `Docker` · `GitHub Actions` | `Python` · `SQL` · `Apache Spark` · `Databricks` | `scikit-learn` · `TensorFlow` · `Swift/iOS` · `TypeScript` |
+<p align="center">
+  <img src="./assets/engineering-stack.svg" alt="Three connected focus areas: Cloud Architecture and DevOps forms the foundation, supporting Data Engineering, which powers AI Product Engineering." width="100%" />
+</p>
 
 ## Selected engineering work
 
