@@ -43,7 +43,7 @@ Four projects with documented implementations, reproducible tests or explicit ev
 
 | Layer | Technologies & practices |
 | :--- | :--- |
-| **Languages & apps** | Python · SQL · TypeScript · Java · Swift/SwiftUI · Kotlin · Dart · Bash |
+| **Languages & apps** | Python · SQL · TypeScript · Java · Swift/SwiftUI · Dart · Bash |
 | **Cloud & delivery** | AWS · Azure · Docker · GitHub Actions · CI/CD · backend APIs · observability |
 | **Data & intelligence** | Databricks · Apache Spark · Pandas · NumPy · scikit-learn · TensorFlow · data modeling · ETL/ELT |
 | **Product & systems** | Native mobile · realtime systems · API design · system architecture · UI/UX · human-centered design |
@@ -53,15 +53,25 @@ Four projects with documented implementations, reproducible tests or explicit ev
 **Software Development Engineering** · Universidad Tecmilenio  
 **Specialized focus track:** DevOps Methodologies *(part of the engineering degree, not a separate postgraduate qualification).*
 
-**Databricks — accreditations & learning paths**
+### Cloud Architecture
 
-- [AWS Databricks Platform Architect](https://credentials.databricks.com/78da2310-47e9-41ee-a661-51929aac0fb3)
-- [Advanced Techniques with Apache Spark Declarative Pipelines](https://credentials.databricks.com/f4874414-bff2-41bf-8cc9-a3058d9c85a4)
-- [DevOps Essentials for Data Engineering](https://credentials.databricks.com/55bdd0a9-d095-4625-8f57-21b56a93f21e)
-- Data Engineer Learning Path · Databricks Fundamentals Accreditation
-- Additional learning in MLOps, AI agents and multicloud data platforms
+- **[AWS Databricks Platform Architect](https://credentials.databricks.com/78da2310-47e9-41ee-a661-51929aac0fb3)** · Databricks
+- **GCP Databricks Platform Architect** · Databricks
+- **Cloud Operations** · Amazon Web Services (AWS)
 
-**Additional credentials:** IBM DevOps and Software Engineering · Microsoft Certified: Azure AI Fundamentals (AI-900) · AWS Cloud Operations · Cisco Data Analytics Essentials · Red Hat System Administration I (RH124).
+### DevOps & Platform Engineering
+
+- **IBM DevOps and Software Engineering Professional Certificate** · Cognitive Class (IBM)
+- **[DevOps Essentials for Data Engineering](https://credentials.databricks.com/55bdd0a9-d095-4625-8f57-21b56a93f21e)** · Databricks
+- **Advanced Machine Learning Operations** · Databricks
+- **Red Hat System Administration I (RH124)** · Red Hat *(training)*
+
+### Data Engineering
+
+- **Data Engineer** · DataCamp · Oct 2026–Oct 2028 · Credential ID: `DE0019283646760`
+- **[Advanced Techniques with Apache Spark Declarative Pipelines](https://credentials.databricks.com/f4874414-bff2-41bf-8cc9-a3058d9c85a4)** · Databricks
+- **Data Engineer Learning Path** · Databricks *(learning path)*
+- **Data Analytics Essentials** · Cisco
 
 ---
 
