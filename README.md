@@ -53,25 +53,28 @@ Four projects with documented implementations, reproducible tests or explicit ev
 **Software Development Engineering** · Universidad Tecmilenio  
 **Specialized focus track:** DevOps Methodologies *(part of the engineering degree, not a separate postgraduate qualification).*
 
-### Cloud Architecture
+A focused selection of credentials most relevant to my work across AI, data platforms and reliable product delivery.
 
-- **[AWS Databricks Platform Architect](https://credentials.databricks.com/78da2310-47e9-41ee-a661-51929aac0fb3)** · Databricks
-- **GCP Databricks Platform Architect** · Databricks
-- **Cloud Operations** · Amazon Web Services (AWS)
+### AI Engineering & Advanced Analytics
+
+- **AI Engineer for Developers Associate** · DataCamp · Nov 2026–Nov 2028 · Credential ID: `AIEDA0014190285394`
+- **Google Advanced Data Analytics Professional Certificate** · Google · Nov 2026
+- **Advanced Machine Learning Operations** · Databricks · Oct 2026
+- **Microsoft Certified: Azure AI Fundamentals** · Microsoft · Dec 2024
+
+### Data Engineering & Cloud Architecture
+
+- **Data Engineer** · DataCamp · Oct 2026–Oct 2028 · Credential ID: `DE0019283646760`
+- **[AWS Databricks Platform Architect](https://credentials.databricks.com/78da2310-47e9-41ee-a661-51929aac0fb3)** · Databricks · Oct 2026
+- **GCP Databricks Platform Architect** · Databricks · Oct 2026
+- **[Advanced Techniques with Apache Spark Declarative Pipelines](https://credentials.databricks.com/f4874414-bff2-41bf-8cc9-a3058d9c85a4)** · Databricks · Oct 2026
 
 ### DevOps & Platform Engineering
 
-- **IBM DevOps and Software Engineering Professional Certificate** · Cognitive Class (IBM)
-- **[DevOps Essentials for Data Engineering](https://credentials.databricks.com/55bdd0a9-d095-4625-8f57-21b56a93f21e)** · Databricks
-- **Advanced Machine Learning Operations** · Databricks
-- **Red Hat System Administration I (RH124)** · Red Hat *(training)*
+- **DevOps Professional Certificate by PagerDuty and LinkedIn** · PagerDuty · Nov 2026
+- **IBM DevOps and Software Engineering Professional Certificate** · Cognitive Class (IBM) · Oct 2026
 
-### Data Engineering
-
-- **Data Engineer** · DataCamp · Oct 2026–Oct 2028 · Credential ID: `DE0019283646760`
-- **[Advanced Techniques with Apache Spark Declarative Pipelines](https://credentials.databricks.com/f4874414-bff2-41bf-8cc9-a3058d9c85a4)** · Databricks
-- **Data Engineer Learning Path** · Databricks *(learning path)*
-- **Data Analytics Essentials** · Cisco
+**Languages:** English — **C1 Advanced**, EF SET English Certificate (61/100) · Nov 2026.
 
 ---
 
